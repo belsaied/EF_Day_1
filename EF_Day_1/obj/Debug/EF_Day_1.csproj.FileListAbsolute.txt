@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\EF_Day_1\EF_Day_1\bin\Debug\EF_Day_1.exe.config
+C:\Users\Admin\source\repos\EF_Day_1\EF_Day_1\bin\Debug\EF_Day_1.exe
+C:\Users\Admin\source\repos\EF_Day_1\EF_Day_1\bin\Debug\EF_Day_1.pdb
+C:\Users\Admin\source\repos\EF_Day_1\EF_Day_1\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\EF_Day_1\EF_Day_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\EF_Day_1\EF_Day_1\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\EF_Day_1\EF_Day_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\EF_Day_1\EF_Day_1\obj\Debug\EF_Day_1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\EF_Day_1\EF_Day_1\obj\Debug\EF_Day_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EF_Day_1\EF_Day_1\obj\Debug\EF_Day_1.csproj.Up2Date
+C:\Users\Admin\source\repos\EF_Day_1\EF_Day_1\obj\Debug\EF_Day_1.exe
+C:\Users\Admin\source\repos\EF_Day_1\EF_Day_1\obj\Debug\EF_Day_1.pdb
